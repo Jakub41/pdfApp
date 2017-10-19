@@ -1,0 +1,38 @@
+<div class="container">
+	  <h3> Users details</h3>
+	  <div class="table-responsive">
+	  <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+	    <thead>
+	      <tr>
+	        <th>Email</th>
+	        <th>Status</th>
+	        <th>Report</th>
+	      </tr>
+	    </thead>
+	    <tbody>
+	      <tr>
+	        <td> BC Demo Details </td>
+	        <td> Mobility / self-care </td>
+	 		<td> <%= link_to 'Report', html_report_path(template: ''), class: "btn btn-primary" %></td>
+	      </tr>
+	      <!-- </tr>
+	       <tr>
+	        <td> ACME BC Demo </td>
+	        <td> Annotated CRF </td>
+	 		<td> <%= link_to 'Report', html_report_path(template: 'acme_bc_demo'), class: "btn btn-primary" %></td>
+	      </tr> -->
+	       <tr>
+	        <td> Enrollment Worksheet </td>
+	        <td> Entry Procedures And Criteria </td>
+	 		<td> <%= link_to 'Report', html_report_path(template: 'second_template'), class: "btn btn-primary" %></td>
+	      </tr>
+	      </tr>
+	       <tr>
+	        <td> CDISC Pilot </td>
+	        <td> Annotated CRF </td>
+	 		<td> <%= link_to 'Report', html_report_path(template: 'cdisc_pilot'), class: "btn btn-primary" %></td>
+	      </tr>
+	    </tbody>
+	  </table>
+	</div>
+</div>

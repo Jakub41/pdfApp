@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-0e7f1fb9c7d91409810bd59b018a9d57cc6cffba715e81b12dae38f7601816e6.ico" />
+
+  	<title>Glandon MDR</title>
+      <link rel="stylesheet" media="all" href="/assets/application.self-a00239c4357345191a71f4162df9bd688de670478cb917e9765151a1185a3d1c.css?body=1" />
+      <script src="/assets/d3.self-43987e92ab3314a1de2c8bb6c21233fc25060d53b389e165f09cf5312d7ecc29.js?body=1"></script>
+<script src="/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1"></script>
+<script src="/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1"></script>
+<script src="/assets/bootstrap/transition.self-6ad2488465135ab731a045a8ebbe3ea2fc501aed286042496eda1664fdd07ba9.js?body=1"></script>
+<script src="/assets/bootstrap/alert.self-742145c5bb847aafdadc6e339be795628f8bc25f177e851f03a8c42278eb0312.js?body=1"></script>
+<script src="/assets/bootstrap/button.self-126ac9bf0e7f2d8568f8da3a00fd5f0fac6eae0946331003370161fbf8d7975e.js?body=1"></script>
+<script src="/assets/bootstrap/carousel.self-e47323f363ceb3dc0bdbce05e36e709ed428e339833a41140a85cb0af24b8127.js?body=1"></script>
+<script src="/assets/bootstrap/collapse.self-2eb697f62b587bb786ff940d82dd4be88cdeeaf13ca128e3da3850c5fcaec301.js?body=1"></script>
+<script src="/assets/bootstrap/dropdown.self-561cca1cbaf67474e01e9536f106bad541594860a6df997004591c1c1957a147.js?body=1"></script>
+<script src="/assets/bootstrap/modal.self-3e78617ade5663314b7ee0ea10375a5b34d59ffbade44939e3f2a4e4ef2019b3.js?body=1"></script>
+<script src="/assets/bootstrap/tab.self-5bf7078b682f8b131332eefa46b45fa5eff2eca745fc0d03e2991450888f7c28.js?body=1"></script>
+<script src="/assets/bootstrap/affix.self-6d6f1a7fc5c8aabf3547fa1b794fab6268f54bc55ad815e55873c71f52513517.js?body=1"></script>
+<script src="/assets/bootstrap/scrollspy.self-969f3c5f48cdf1e439c7fa1154c13b948715f5c689f87837c0b64521d3b46ef6.js?body=1"></script>
+<script src="/assets/bootstrap/tooltip.self-05afb177e08f98997ccfc84fa08a215e4b27d48d5fe4d049080675e9dffd8199.js?body=1"></script>
+<script src="/assets/bootstrap/popover.self-0aa93860b59fe7393f1dd490f54b3cb994f9d6155adffce034d4e14ae361b041.js?body=1"></script>
+<script src="/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1"></script>
+<script src="/assets/dataTables/jquery.dataTables.self-f520d04a662abc3bbb379438d969df199552297a55b74651a9e2b33b775df3ed.js?body=1"></script>
+<script src="/assets/dataTables/bootstrap/3/jquery.dataTables.bootstrap.self-131f13015a9da63d8ed71f09b1c89ebd2fc8c81f1b2032430e06b8547d03f943.js?body=1"></script>
+<script src="/assets/morris.min.self-4af92d7906a27d9873d17376c88128564082ab7acc6e7055d61bd398db3c0276.js?body=1"></script>
+<script src="/assets/raphael.self-e230bb3b122b4201035d011485b227744495122e28ef1c431844d21f3f8766c4.js?body=1"></script>
+<script src="/assets/dataTables.buttons.self-c96cc57d4645c681327596d4634a8005302864fb3d82e30f61bdaa344d0879c8.js?body=1"></script>
+<script src="/assets/buttons.bootstrap.self-90be87cac5d5938024ef3887b747d3f70043bbe41fee7818451b0bd1484c4c28.js?body=1"></script>
+<script src="/assets/dataTables.select.self-7405f6ee6662daa4fa9ca4427bb05592510dbc0dc0dbf8b344cca756c5d9f719.js?body=1"></script>
+<script src="/assets/dataTables.keyTable.min.self-fcb07bb715b34c61945b6c6bb431c09aae993bac33fd7d21d430d93df4ac6eb8.js?body=1"></script>
+<script src="/assets/dataTables.editor.min.self-0a21825987c4288f22f7a8e4aedb514ea3182d8323dbceac49bbd1483f627262.js?body=1"></script>
+<script src="/assets/editor.bootstrap.min.self-6f59576223046340fde6eae930b7f46b0ba94f96f8b8bf691296febfd92a4b42.js?body=1"></script>
+<script src="/assets/jquery.validate.self-cd777b714cafc922406a63a924ecd3953ca61286b2cd3f3571a21707eab81249.js?body=1"></script>
+<script src="/assets/jquery.validate.additional-methods.self-5d2689ef4f3a167fc98caedfe400fee447e28e5058ac835f04656ae234bd0c8d.js?body=1"></script>
+<script src="/assets/application.self-8defee6c0f84dcf082475ce0ea02dc86d06aed9f02f31bc4da08aa528cf9cc71.js?body=1"></script>
+    <link rel="stylesheet" media="print" href="/assets/print.self-744fe7aabb938bd73d31ca699ee823538f41eff0b32a62364e7f78f5f248f99e.css?body=1" />
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="zVellYcCWSndFmpx8pmuBfE0mVFRhmOVU55Vq1kzeOuedeBtOLnxkvSkxjfRhQvH8GSKt/NN5eV4E5rhFT6fhw==" />
+
+    <style>
+        html, body {
+            height:100%;
+        }
+
+        body {
+        padding-top: 55px;
+        }
+
+        .container-fluid, .full {
+            height:100%;
+        }
+
+        #sidebar {
+            background-color:#f5f5f5;
+        }
+        @media (min-width:768px) {
+          #sidebar {
+              width: inherit;
+              min-width: 270px;
+              max-width: 270px;
+              min-height: 100%;
+              position:relative;
+          }
+          #main_area {
+              width:calc(100% - 270px);
+          }
+
+          #sidebar ul  {
+            border-bottom: 2px solid #d9d9d9;
+          }
+
+          #sidebar .breadcrumb {
+            background-color: #d9d9d9; 
+          }
+
+          .breadcrumb a { 
+            font-size: 12px !important; 
+          }
+
+          .breadcrumb li { 
+            font-size: 12px !important; 
+          }
+
+          .breadcrumb > li + li:before {
+            color: #000000;
+            content: ">>";
+            /*padding: 0 5px;*/
+          }
+
+        }
+    </style>
+  </head>
+  <body>
+    <div class="container-fluid">
+      <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">
+              <img alt='Brand' src='/assets/glandon-2b6d2f8001297e608ce8193ba501310bb52f6bc3ad2da9f7a6767278a3a21776.png' height='25'>
+            </a>
+            <a class="navbar-brand" href="/">A3 Demo <small>Glandon MDR (v2.12.0)</small></a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+              <p class="navbar-text">
+                  daveih1664@gmail.com 
+                  [System Admin, Content Admin]
+              </p>
+                <li><a id="users_button" href="/users"><span class="glyphicon glyphicon-user"></span>&nbsp;</a></li>
+              <li>
+                <a id="print_button" href="">
+                  <span class="glyphicon glyphicon-print"></span>
+</a>              </li>
+              <li><a id="settings_button" href="/user_settings"><span class="glyphicon glyphicon-cog"></span>&nbsp;</a></li>
+              <li><a id="home_button" href="/"><span class="glyphicon glyphicon-home"></span>&nbsp;</a></li>
+              <li>
+                <a id="logoff_button" rel="nofollow" data-method="delete" href="/users/sign_out">
+                  <span class="glyphicon glyphicon-off"></span>
+</a>              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <div class="row full">
+        <div id="sidebar" class="col-md-2">
+          <div class="nav nav_pills nav-stacked">
+            <div>
+              <ol class="breadcrumb"><li id="breadcrumb_1"><a href="/forms">Forms</a></li><li id="breadcrumb_2"><a href="/forms/history?identifier=BC+DEMO&scope_id=NS-ACME">BC DEMO</a></li><li id="breadcrumb_3"><a href="/forms/view?id=F-ACME_BCDEMO&namespace=http%3A%2F%2Fwww.assero.co.uk%2FMDRForms%2FACME%2FV1">View: V0.1.0</a></li><li id="breadcrumb_4" class="active">CRF</li></ol>
+            </div>
+            <ul class="nav"> 
+              <li><a id="main_nav_d" href="/">Dashboard</a></li>
+            </ul>
+              <ul class="nav"> 
+                <li><a id="main_nav_in" href="/iso_namespaces">Namespaces</a></li>
+                <li><a id="main_nav_ira" href="/iso_registration_authorities">Registration Authorities</a></li>
+                <li><a id="main_nav_im1" href="/iso_managed">Managed Items</a></li>
+                <li><a id="main_nav_el" href="/tokens">Edit Locks</a></li>
+                <li><a id="main_nav_at1" href="/audit_trail">Audit Trail</a></li>
+  	 		      </ul>
+              <ul class="nav"> 
+                  <li><a id="main_nav_u" href="/uploads">Upload</a></li>
+                  <li><a id="main_nav_bj" href="/backgrounds">Background Jobs</a></li>
+                <li><a id="main_nav_ahr" href="/ad_hoc_reports">Ad Hoc Reports</a></li>
+              </ul>
+              <ul class="nav"> 
+                <li><a id="main_nav_ics" href="/iso_concept_systems">Classifications (tags)</a></li>
+                <li><a id="main_nav_ma" href="/markdown_engines">Markdown</a></li>
+              </ul>
+              <ul class="nav"> 
+                <li><a id="main_nav_te" href="/thesauri">Terminology</a></li>
+                <li><a id="main_nav_ct" href="/cdisc_terms/history">CDISC Terminology</a></li>
+              </ul>
+              <ul class="nav"> 
+                <li><a id="main_nav_bct" href="/biomedical_concept_templates">Biomedical Concept Templates</a></li>
+                <li><a id="main_nav_bc" href="/biomedical_concepts">Biomedical Concepts</a></li>
+              </ul>
+              <ul class="nav"> 
+                <li><a id="main_nav_f" href="/forms">Forms</a></li>
+              </ul>
+              <ul class="nav"> 
+                <li><a id="main_nav_sm" href="/sdtm_models/history">CDISC SDTM Model</a></li>
+                <li><a id="main_nav_ig" href="/sdtm_igs/history">CDISC SDTM IGs</a></li>
+                <li><a id="main_nav_sd" href="/sdtm_user_domains">Domains</a></li>
+              </ul>
+          </div>
+        </div>
+				<div id="main_area" class="col-md-10">
+          <div id="datatables">
+            <!-- Datatables page length options-->
+            <script>
+//<![CDATA[
+var pageLength = 25;
+//]]>
+</script>
+            <script>
+//<![CDATA[
+var pageSettings = [[5,10,15,25,50,100,-1], ["5","10","15","25","50","100","All"]];
+//]]>
+</script>
+          </div>
+          <div id="alerts">
+          </div>
+  				<h3>CRF: BC Demonstration <small>BC DEMO (V0.1.0, 1, Incomplete)</small></h3>
+<div class="col-md-8">
+    <style>table.crf-input-field { border-left: 1px solid black; border-right: 1px solid black; border-bottom: 1px solid black;}
+table.crf-input-field tr td { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 8pt; text-align: center; vertical-align: center; padding: 5px; }
+table.crf-input-field td:not(:last-child){border-right: 1px dashed}
+h4.domain-1 {border-radius: 5px; background: #A3E4D7; padding: 5px; }
+p.domain-1 {border-radius: 5px; background: #A3E4D7; padding: 5px; }
+h4.domain-2 {border-radius: 5px; background: #AED6F1; padding: 5px; }
+p.domain-2 {border-radius: 5px; background: #AED6F1; padding: 5px; }
+h4.domain-3 {border-radius: 5px; background: #D2B4DE; padding: 5px; }
+p.domain-3 {border-radius: 5px; background: #D2B4DE; padding: 5px; }
+h4.domain-4 {border-radius: 5px; background: #FAD7A0; padding: 5px; }
+p.domain-4 {border-radius: 5px; background: #FAD7A0; padding: 5px; }
+h4.domain-5 {border-radius: 5px; background: #F5B7B1; padding: 5px; }
+p.domain-5 {border-radius: 5px; background: #F5B7B1; padding: 5px; }
+h4.domain-other {border-radius: 5px; background: #BDC3C7; padding: 5px; }
+p.domain-other {border-radius: 5px; background: #BDC3C7; padding: 5px; }
+</style><table class="table table-striped table-bordered table-condensed"><tr><td colspan="2"><h4>BC Demonstration</h4></td><td></td></tr><tr><td colspan="3"><h5>Group</h5></td></tr><tr><td colspan="3"><h5>Common Group</h5></td></tr><tr><td colspan="3"><h5>EQ-5D-3L Mobility</h5></td></tr><tr><td>Date & Time</td><td></td><td><table class="crf-input-field"><tr><td>D</td><td>D</td><td>/</td><td>M</td><td>M</td><td>M</td><td>/</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td></td><td>H</td><td>H</td><td>:</td><td>M</td><td>M</td></tr></table></td></tr><tr><td>Mobility</td><td></td><td><p><input type="radio" name="EQ5D3L.MOBILITY.NONE" value="EQ5D3L.MOBILITY.NONE"></input>No problems</p><p><input type="radio" name="EQ5D3L.MOBILITY.SOME" value="EQ5D3L.MOBILITY.SOME"></input>Some problems</p><p><input type="radio" name="EQ5D3L.MOBILITY.CONFINED" value="EQ5D3L.MOBILITY.CONFINED"></input>Confined to bed</p></td></tr><tr><td colspan="3"><h5>EQ-5D-3L Self-Care</h5></td></tr><tr><td>Date & Time</td><td></td><td><table class="crf-input-field"><tr><td>D</td><td>D</td><td>/</td><td>M</td><td>M</td><td>M</td><td>/</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td></td><td>H</td><td>H</td><td>:</td><td>M</td><td>M</td></tr></table></td></tr><tr><td>Self-Care</td><td></td><td><p><input type="radio" name="EQ5D3L.SELFCARE.NONE" value="EQ5D3L.SELFCARE.NONE"></input>No problems</p><p><input type="radio" name="EQ5D3L.SELFCARE.SOME" value="EQ5D3L.SELFCARE.SOME"></input>Some problems</p><p><input type="radio" name="EQ5D3L.SELFCARE.UNABLE" value="EQ5D3L.SELFCARE.UNABLE"></input>Unable to wash/dress</p></td></tr></table><div style='page-break-after:always;'></div></body></html>
+    <a class="btn btn-primary" target="_blank" href="/forms/crf.pdf?id=F-ACME_BCDEMO&amp;namespace=http%3A%2F%2Fwww.assero.co.uk%2FMDRForms%2FACME%2FV1">Report</a>
+    <a class="btn btn-primary" href="http://localhost:3000/forms/view?id=F-ACME_BCDEMO&amp;namespace=http%3A%2F%2Fwww.assero.co.uk%2FMDRForms%2FACME%2FV1">Close</a>
+</div>
+  				<p>&nbsp;</p>
+        </div> 
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>-->
+    
+		
+		
+		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <!--<script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>-->
+  </body>
+</html>
