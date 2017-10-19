@@ -11,6 +11,14 @@
 // about supported directives.
 //
 //= require jquery
+//= require popper
+//= require bootstrap
+//= require bootstrap-sprockets
+//= require spin
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+
+$(document).ready(function () {
+    $(".alert").fadeOut(3000);
+});

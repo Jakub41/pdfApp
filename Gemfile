@@ -63,6 +63,8 @@ gem 'devise'
 # ruby-2.3.1
 
 # Added Gems
+gem 'bootstrap'
+gem 'font-awesome-rails'
 gem 'pdf-report-generator', '~> 0.1.0' # Custom PDF generator
 gem 'wicked_pdf'
 gem 'wkhtmltopdf-binary'
