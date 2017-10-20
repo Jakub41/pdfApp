@@ -2,245 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bfcea90-b439-4afe-89b9-07fa22cba0ea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/background19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background001.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background002.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background008.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background011.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background012.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background014.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background015.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background016.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background017.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background018.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background019.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background020.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background021.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background022.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background023.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background025.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background026.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background027.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background028.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background029.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background030.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background031.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background032.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background033.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background034.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background035.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background036.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background037.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background038.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background039.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background040.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background041.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background042.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background043.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background044.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background045.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background046.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background047.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background048.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background049.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background050.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background051.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background052.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background053.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background054.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background055.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background056.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background057.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background058.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background059.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background060.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background061.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background062.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background063.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background064.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background065.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background066.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background067.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background068.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background069.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background070.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background071.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background072.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background073.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background074.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background075.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background076.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background077.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background078.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background079.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background080.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background081.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background082.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background083.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background084.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background085.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background086.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background087.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background088.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background089.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background090.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background091.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background092.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background093.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background094.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background095.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background096.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background097.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background098.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background099.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background100.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background101.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background102.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background103.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background104.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background106.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background107.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background108.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background110.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background111.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background112.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background113.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background114.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background115.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background116.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background117.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background118.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background119.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background120.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background121.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background122.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background123.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background124.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background125.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background126.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background127.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background128.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background129.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background130.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background131.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background132.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background133.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background134.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background135.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background136.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background137.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background138.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background139.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background140.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background141.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background142.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background143.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background144.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background145.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background146.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background147.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background148.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background149.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background150.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background151.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background152.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background153.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background154.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background155.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background156.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/background157.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/church_apps_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/confirmations_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/omniauth_callbacks_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/passwords_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/registrations_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/sessions_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/unlocks_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/home_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/users_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/application_record.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/church_apps/generate.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/church_apps/html_report.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/church_apps/html_test.pdf.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/devise.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/_user.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/confirmations/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/edit.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/index.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/mailer/confirmation_instructions.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/mailer/password_change.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/mailer/reset_password_instructions.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/mailer/unlock_instructions.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/passwords/edit.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/passwords/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/registrations/edit.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/registrations/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/sessions/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/shared/_links.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/show.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/show.json.jbuilder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/users/unlocks/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20170501073530_devise_create_users.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20170825193513_add_auth_token_to_users.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/ad-block.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/CDISC_PILOT_files/wz_jsgraphics.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/acme_bc_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/cdisc_pilot.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/ad-block.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/report_files/wz_jsgraphics.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/second_template.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/javascripts/cable.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seeds.rb" afterPath="$PROJECT_DIR$/db/seeds.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.rdoc" afterPath="$PROJECT_DIR$/README.rdoc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/church_apps_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/church_apps_controller.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -255,15 +19,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pdfApp@Development__pdfApp.coverage" NAME="Development: pdfApp Coverage Results" MODIFIED="1508413101659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="pdfApp" />
+    <SUITE FILE_PATH="coverage/pdfApp@Development__pdfApp.coverage" NAME="Development: pdfApp Coverage Results" MODIFIED="1508490104882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="pdfApp" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="new.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/users/registrations/new.html.erb">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-44">
-              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="488">
+              <caret line="69" column="24" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="69" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -279,51 +43,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="home_controller.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spin.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/spin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6104">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="church_apps_controller.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/church_apps_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cdisc_pilot.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/cdisc_pilot.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="74" column="48" lean-forward="true" selection-start-line="74" selection-start-column="48" selection-end-line="74" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/font-awesome.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/bootstrap.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="437">
+              <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -351,7 +95,6 @@
         <option value="$PROJECT_DIR$/config/puma.rb" />
         <option value="$PROJECT_DIR$/config/spring.rb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
@@ -362,6 +105,8 @@
         <option value="$PROJECT_DIR$/app/views/layouts/devise.html.erb" />
         <option value="$PROJECT_DIR$/app/views/users/registrations/new.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/controllers/church_apps_controller.rb" />
       </list>
     </option>
   </component>
@@ -378,8 +123,7 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1920" />
     <option name="height" value="1054" />
@@ -401,6 +145,8 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -430,14 +176,14 @@
               <item name="pdfApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="pdfApp" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pdfApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="pdfApp" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pdfApp" type="b2602c69:ProjectViewProjectNode" />
@@ -450,6 +196,13 @@
               <item name="pdfApp" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdfApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdfApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="church_apps" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pdfApp" type="b2602c69:ProjectViewProjectNode" />
@@ -500,8 +253,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -645,32 +396,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508406016624</updated>
-      <workItem from="1508406017817" duration="6199000" />
+      <workItem from="1508406017817" duration="6571000" />
+      <workItem from="1508489556121" duration="1828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6199000" />
+    <option name="totallyTimeSpent" value="8399000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
+    <frame x="0" y="22" width="1920" height="1054" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21788009" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22055675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -685,19 +438,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,7 +456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="893">
           <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,7 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,7 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -745,7 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,41 +491,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/cable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/cable.js" />
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/popper.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/spin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -795,7 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -803,7 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -811,15 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-12">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -827,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -835,7 +534,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -843,15 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/church_apps/generate.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -859,7 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -867,7 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -875,7 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -891,7 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -903,19 +588,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="60" column="12" lean-forward="false" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/users/confirmations_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -923,7 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -931,7 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -939,7 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -947,7 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,7 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="456" column="0" lean-forward="false" selection-start-line="456" selection-start-column="0" selection-end-line="456" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,7 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -971,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -979,7 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -987,7 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -995,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1003,7 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
           <caret line="37" column="6" lean-forward="false" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1011,7 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1019,7 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-210">
           <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1027,7 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-39">
           <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1035,38 +697,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/registrations/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/church_apps_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="228">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/cdisc_pilot.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="74" column="48" lean-forward="true" selection-start-line="74" selection-start-column="48" selection-end-line="74" selection-end-column="48" />
+        <state relative-caret-position="1406">
+          <caret line="74" column="48" lean-forward="false" selection-start-line="74" selection-start-column="48" selection-end-line="74" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -1091,6 +736,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/church_apps/html_report.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/church_apps/generate.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/spin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6104">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/church_apps_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="69" column="24" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="69" selection-end-column="24" />
           <folding />
         </state>
       </provider>

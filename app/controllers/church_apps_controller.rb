@@ -9,7 +9,7 @@ class ChurchAppsController < ApplicationController
     respond_to do |format|
       format.pdf do
         @html = @html
-        render pdf: "cdisc_changes.pdf", page_size: 'A4', orientation: 'Landscape'
+        render pdf: "cdisc_changes.pdf", page_size: 'A4', orientation: 'Portrait' # Landscape
       end
     end
   end
